@@ -1,0 +1,68 @@
+.s1{
+	padding-left: 35%;
+background-color:#BAA5E0;
+	padding-right:30%;
+
+
+}
+.top{
+	text-align:center;
+	font-family:'Amatic SC', cursive;
+	color: antiquewhite;
+	font-size:40px;
+	background-color: #BAA5E0;
+	margin-top: 0px;
+
+
+
+
+}
+body{
+	background-color: #BAA5E0;
+	color: antiquewhite;
+	font-size:40px;
+	font-family: 'Sacramento', cursive;
+}
+hr{
+	border-style: none;
+  border-top: dotted;
+  border-width: 10px;
+  border-color:antiquewhite;
+  width: 10%;
+
+}
+
+
+
+.s2{
+	height:300px;
+	width:300px;
+
+
+	display:block;
+	padding-left: 20%;
+	padding-right: 10%;
+
+	float:left;
+
+
+
+
+
+
+}
+.middle{
+	padding-top: 50px;
+	text-align: center
+}
+br{
+	clear: both
+}
+.bottom{
+	text-align: center;
+	clear: 
+}
+.s3{
+	font-size:60px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
